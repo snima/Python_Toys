@@ -1,4 +1,5 @@
-#Approximate ln(x)in python to 6 digits. 
+#Approximate ln(x)in python to 6 digits of accuracy 
+# It is based on the taylor series
 import math
 
 def ln_ex(n):
