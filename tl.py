@@ -1,4 +1,4 @@
-%Approximate ln(x)
+#Approximate ln(x)in python to 6 digits. 
 import math
 
 def ln_ex(n):
